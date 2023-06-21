@@ -1,2 +1,2 @@
 # odin-recipes
-This project is a simple recipe website. It will have a main index page and links to a few recipes. This project will demonstrate the html foundations I have learned such as html boilerplate, elements, tags, working with text, lists, links, and/or images.
+This project is a simple recipe website. It will have a main index page and links to a few recipes. This project will demonstrate the html foundations I have learned such as html boilerplate, elements, tags, working with text, lists, links, and images.
