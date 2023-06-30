@@ -1,0 +1,20 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 100px;
+    background-color: silver;
+}
+
+.link2 {
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.link3 {
+    margin-top: 10px;
+    margin-left: 60px;
+}
+
+img {
+    max-height: 500px;
+    max-width: 500px;
+}
