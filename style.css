@@ -14,3 +14,12 @@ body {
     width: 100%;
     height: 100vh;
 }
+
+.title {
+    color: rgba(242,37,10,255);
+}
+
+a {
+    text-decoration: none;
+    color: rgba(32,203,184,255);
+}
