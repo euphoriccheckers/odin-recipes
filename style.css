@@ -1,20 +1,16 @@
-body {
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
     font-family: 'Courier New', Courier, monospace;
-    margin: 100px;
-    background-color: silver;
+    background: url("./background-photo.jpg") no-repeat center;
+    background-size: cover;
 }
 
-.link2 {
-    margin-top: 10px;
-    margin-left: 30px;
-}
-
-.link3 {
-    margin-top: 10px;
-    margin-left: 60px;
-}
-
-img {
-    max-height: 500px;
-    max-width: 500px;
+body {
+    width: 100%;
+    height: 100vh;
 }
