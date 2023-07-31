@@ -6,7 +6,7 @@
 
 html {
     font-family: 'Courier New', Courier, monospace;
-    background: url("./background-photo.jpg") no-repeat center;
+    background: url("./background.jpg") repeat-y center;
     background-size: cover;
 }
 
@@ -17,9 +17,51 @@ body {
 
 .title {
     color: rgba(242,37,10,255);
+    text-align: center;
+    margin-top: 10%;
+    font-size: xx-large;
 }
 
 a {
+    display: block;
     text-decoration: none;
     color: rgba(32,203,184,255);
+    margin: 5%;
+}
+
+.recipes {
+    margin-top: 5%;
+    text-align: center;
+    font-size: xx-large;
+}
+
+h1,
+h2 {
+    color: rgba(242,37,10,255);
+    text-align: center;
+}
+
+p,
+ul,
+ol {
+    width: 60%;
+    color: rgba(32,203,184,255);
+    margin: 5% auto;
+}
+
+li {
+    display: inline-block;
+    width: 100%;
+    margin: 1% auto;
+    text-align: center;
+}
+
+img {
+    width: 40%;
+    display: block;
+    margin: 5% auto;
+}
+
+.steps-list {
+    padding-bottom: 10%;
 }
